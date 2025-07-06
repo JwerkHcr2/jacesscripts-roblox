@@ -67,7 +67,7 @@ creditLabel.BackgroundTransparency = 1
 creditLabel.TextColor3 = Color3.fromRGB(200, 200, 200)
 creditLabel.TextScaled = true
 creditLabel.Font = Enum.Font.SourceSansItalic
-creditLabel.Text = "Made By 3T3RN4L999"
+creditLabel.Text = "Made By JwerkHcr2 YT"
 creditLabel.TextTransparency = 0.2
 creditLabel.Parent = bgFrame
 
